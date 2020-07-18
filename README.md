@@ -22,17 +22,17 @@ The Bus data contains the following:
 ---  
   
 Running the API (LAMetro.ipynb)
-  Scroll to the bottom where it says "API Begins Here"
-  Run the first code block which will import the libraries and initialize the variables
-  Then next code block will grab the data
-    The only code that needs to be adjusted is the time (t_end)
-    It is in the format (seconds * minutes * hours) so adjust it accordingly
-    Once the desired time is set, run the code
-  The next block of code just shows the dtypes, so run it if you want
-  There now two blocks of code left
-    (1) The first block will save the df to a csv (LAMetro_bus_data)
-          Run this if you want to create a csv file
-    (2) The second block will append the df to a csv ("")
-          Run this if you have already created the csv file (the first block), and want to continue appending data
+  Scroll to the bottom where it says "API Begins Here".
+  Run the first code block which will import the libraries and initialize the variables.
+  Then next code block will grab the data.
+    The only code that needs to be adjusted is the time (t_end).
+    It is in the format (seconds * minutes * hours) so adjust it accordingly.
+    Once the desired time is set, run the code.
+  The next block of code just shows the dtypes, so run it if you want.
+  There now two blocks of code left.
+    (1) The first block will save the df to a csv (LAMetro_bus_data).
+          Run this if you want to create a csv file.
+    (2) The second block will append the df to a csv ("").
+          Run this if you have already created the csv file (the first block), and want to continue appending data.
   This is the end. Start from the beginning if you want to grab more data.
-  It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv
+  It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv.
