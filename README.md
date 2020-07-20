@@ -2,7 +2,7 @@
 final-project-spider-man created by GitHub Classroom
 
 There are 2 overarching datasets. 
-The first dataset is a collection of the LA Metro Bike Share data which is in the "BikeShare" folder.
+The first dataset is a collection of the LA Metro Bike Share data which is in the "BikeShare" folder. I take one portion of the data and clean it into 2020 Q1 Cleaned Bike Data.csv.
 The second dataset is the LA Metro Bus data that I attained from the LA Metro API ("LAMetro_bus_data.csv").
 
 ---
@@ -21,7 +21,7 @@ The Bus data contains the following:
   
 ---  
   
-Running the API (LA Metro API.ipynb)
+Running the API - (LA Metro API.ipynb)
   Run the first code block which will import the libraries and initialize the variables.
   Then next code block will grab the data.
     The only code that needs to be adjusted is the time (t_end).
@@ -37,5 +37,11 @@ Running the API (LA Metro API.ipynb)
   It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv.
   
 ---
-  
-Running the Bike Station Visualizations (Bike Stations Visualizations.ipynb)
+
+LA Metro Bike Share - (LA Metro Bike Share Cleaning.ipynb, LA Metro Bike Share EDA.ipynb, LA Metro Bike Share Visualizaiton.ipynb)
+  Run the LA Metro Bike Share Cleaning.ipynb and follow the instructions.
+    Here I clean the data and prep it for the visualization
+  Then open LA Metro Bike Share EDA and follow the instructions
+    After, I quickly go over the EDA before the visualization portion
+  Lastly, open the LA Metro Bike Share Visualization and follow the instructions.
+    In this section I show the arrival and departures for the LA Metro Bike Share System
