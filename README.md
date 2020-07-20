@@ -35,3 +35,7 @@ Running the API (LA Metro API.ipynb)
           Run this if you have already created the csv file (the first block), and want to continue appending data.
   This is the end. Start from the beginning if you want to grab more data.
   It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv.
+  
+---
+  
+Running the Bike Station Visualizations (Bike Stations Visualizations.ipynb)
