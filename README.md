@@ -21,8 +21,7 @@ The Bus data contains the following:
   
 ---  
   
-Running the API (LAMetro.ipynb)
-  Scroll to the bottom where it says "API Begins Here".
+Running the API (LA Metro API.ipynb)
   Run the first code block which will import the libraries and initialize the variables.
   Then next code block will grab the data.
     The only code that needs to be adjusted is the time (t_end).
