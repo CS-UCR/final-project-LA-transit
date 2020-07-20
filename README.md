@@ -2,7 +2,7 @@
 final-project-spider-man created by GitHub Classroom
 
 There are 2 overarching datasets. 
-The first dataset is a collection of the LA Metro Bike Share data which is in the "BikeShare" folder. I take one portion of the data and clean it into 2020 Q1 Cleaned Bike Data.csv.
+The first dataset is a collection of the LA Metro Bike Share data which is in the "BikeShare" folder. I take one portion of the data and clean it into "2020 Q1 Cleaned Bike Data.csv".
 The second dataset is the LA Metro Bus data that I attained from the LA Metro API ("LAMetro_bus_data.csv").
 
 ---
