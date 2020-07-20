@@ -31,12 +31,11 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
     - Once the desired time is set, run the code.
   - The next block of code just shows the dtypes, so run it if you want.
   - There now two blocks of code left.
-    - (1) The first block will save the df to a csv (LAMetro_bus_data).
-          - Run this if you want to create a csv file.
-    - (2) The second block will append the df to a csv ("").
-          - Run this if you have already created the csv file (the first block), and want to continue appending data.
+    - (1) The first block will save the df to a csv (LAMetro_bus_data). Run this if you want to create a csv file.
+    - (2) The second block will append the df to the csv (LAMetro_bus_data). Run this if you have already created the csv file (the first block), and want to continue appending data.
   - This is the end. Start from the beginning if you want to grab more data.
   - It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv.
+  - Instructions for this are also in the notebook
   
 ---
 
