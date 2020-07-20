@@ -36,6 +36,7 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
   - This is the end. Start from the beginning if you want to grab more data.
   - It is necessary to start over so the df can be reset. Thus, redundant data will not be appended to the csv.
   - Instructions for this are also in the notebook
+  - *Note:* The csv is too big, so only a portion of the data has been uploaded to github
   
 ---
 
