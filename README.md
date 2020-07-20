@@ -1,5 +1,4 @@
-# final-project-spider-man
-final-project-spider-man created by GitHub Classroom
+# Phase 2
 
 ## Datasets
 There are 2 overarching datasets. 
@@ -9,9 +8,9 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
 ---
 
 ## What the datasets contain
-The Bike share data contains the following: 
+- The Bike share data contains the following: 
   - duration of the ride, the start and end time, the start and end longitude and latitude, etc.
-The Bus data contains the following:
+- The Bus data contains the following:
   - grouped time (the time the set of buses was collected),
   - actual time (the time the single bus was collected),
   - last report (the last time the bus reported to the server in seconds),
@@ -24,7 +23,7 @@ The Bus data contains the following:
 ---  
 
 ## Bus Data and API
-Running the API - (LA Metro API.ipynb)
+- Running the API - (LA Metro API.ipynb)
   - Run the first code block which will import the libraries and initialize the variables.
   - Then next code block will grab the data.
     - The only code that needs to be adjusted is the time (t_end).
