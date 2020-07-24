@@ -59,6 +59,6 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
   - Where are most bikers going?
   - What are the most popular stations?
 - Questions about the bus system:
+  - What are the most popular buses?
   - Where are most people going?
-  - How many buses are there?
-  - How do buses change with the day or time?
+  - How does bus density change with the day or time?
