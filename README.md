@@ -22,8 +22,9 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
   
 ---  
 
-## Bus Data and API
-- Running the API - (LA Metro API.ipynb)
+## Bus: API, Cleaning, EDA, and Visualization
+- (LA Metro API.ipynb, LA Metro Bus Cleaning.ipynb, LA Metro Bus EDA & Visualizaiton.ipynb)
+- Running the API
   - Run the first code block which will import the libraries and initialize the variables.
   - Then next code block will grab the data.
     - The only code that needs to be adjusted is the time (t_end).
@@ -41,10 +42,23 @@ The second dataset is the LA Metro Bus data that I attained from the LA Metro AP
 ---
 
 ## Bikeshare: Cleaning, EDA, and Visualization
-- LA Metro Bike Share - (LA Metro Bike Share Cleaning.ipynb, LA Metro Bike Share EDA.ipynb, LA Metro Bike Share Visualizaiton.ipynb)
+- LA Metro Bike Share - (LA Metro Bike Share Cleaning.ipynb, LA Metro Bike Share EDA & Visualization.ipynb)
   - Run the LA Metro Bike Share Cleaning.ipynb and follow the instructions.
     - Here I clean the data and prep it for the visualization
-  - Then open LA Metro Bike Share EDA and follow the instructions
-    - After, I quickly go over the EDA before the visualization portion
-  - Lastly, open the LA Metro Bike Share Visualization and follow the instructions.
-    - In this section I show the arrival and departures for the LA Metro Bike Share System
+  - Then open LA Metro Bike Share EDA & Visualization and follow the instructions
+    - In this section I show the arrival & departures and denisty maps for the LA Metro Bike Share System
+    
+---
+
+# Phase 3
+- Phase 3 is split between the LA Metro Bus EDA & Visualization and LA Metro Bike Share EDA & Visualization
+- I used the LA Metro API and LA Metro Bike Share Dataset
+- Questions about BikeShare:
+  - How many people are riding the bikes?
+  - What is the most common pass type?
+  - Where are most bikers going?
+  - What are the most popular stations?
+- Questions about the bus system:
+  - Where are most people going?
+  - How many buses are there?
+  - How do buses change with the day or time?
