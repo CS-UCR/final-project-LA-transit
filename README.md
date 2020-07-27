@@ -3,7 +3,7 @@
 ## Datasets
 2 datasets being used in the project. 
 - The first dataset is a collection of the LA Metro Bike Share data which is in the "BikeShare" folder. I took one portion of the data (from Q1 2020) and clean it into "2020 Q1 Cleaned Bike Data.csv". It has about 70,000 rows.
-- The second dataset is the LA Metro Bus data that I attained from the LA Metro API ("LAMetro_bus_data.csv"). This set has about 400,000 rows.
+- The second dataset is the LA Metro Bus data that I attained from the LA Metro API ("LA Metro Bus Data.csv"). It is then cleaned. This set has about 500,000 rows.
 
 ---
 
