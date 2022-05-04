@@ -1,7 +1,7 @@
 # Phase 1
 
 ## Project Proposal
-For the project, I plan map the LA Metro Bus system in "real-time" using publicly available data. I will also analyze the LA Metro Bike Share System and map trips to and from destinations. This hands-on project will allow me to gain more experience with GIS and transit data.
+For the project, I plan map the LA Metro Bus system in "real-time" using publicly available data. I will also analyze the LA Metro Bike Share System and map trips to and from destinations. Thus, this hands-on project will allow me to gain more experience with GIS and transit data.
 
 # Phase 2
 
