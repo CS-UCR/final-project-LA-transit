@@ -1,3 +1,8 @@
+# Phase 1
+
+## Project Proposal
+In this project, I plan to map the LA Metro Bus system in "real-time" by gathering data from the LA Metro API. I will also analyze the LA Metro Bike Share system and map trips to and from destinations. Thus, this hands-on project will allow me to gain more experience with GIS and transit data.
+
 # Phase 2
 
 ## Datasets
